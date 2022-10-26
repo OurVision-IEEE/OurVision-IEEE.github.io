@@ -1,6 +1,6 @@
 # OurVision
 
-Visit us at: [Our Vision](https://ourvision-tezz.github.io)
+Visit us at: [Our Vision](https://OurVision-IEEE.github.io)
 
 Lead Developer: [Tejas M R: @tezz-io](https://github.com/tezz-io)
 
